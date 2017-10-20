@@ -11,8 +11,8 @@ Ressources :
   
 ### Coding style
  
- Style [Allman](https://fr.wikipedia.org/wiki/Style_d%27indentation#Style_Allman) : 
+ Style [Allman](https://fr.wikipedia.org/wiki/Style_d%27indentation#Style_Allman).
 
 ### Naming conventions
  
- Use [this](http://cs.stmarys.ca/~porter/csc/ref/cpp_style.html) one 
+ Use [this](http://cs.stmarys.ca/~porter/csc/ref/cpp_style.html) one ! 
