@@ -3,6 +3,18 @@
 
 ## Autonomous car park project - Master project at INSA Toulouse
 
+### Clonner le repo 
+```
+git clone --recursive https://github.com/yop0/E.CorpPark.git
+```
+### Les branches de développement
+Se placer sur la bonne branche suivant ce qui est développé
+ - CAN : `git checkout devcan`
+ - Moteurs : `git checkout devmotors`
+ - Ultrasons : `git checkout devus`
+ Si autre, créer une branche : 
+ `git checkout -b nom_branche`. 
+
 ### Git repository management
 
 Ressources :
