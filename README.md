@@ -12,6 +12,7 @@ Se placer sur la bonne branche suivant ce qui est développé
  - CAN : `git checkout devcan`
  - Moteurs : `git checkout devmotors`
  - Ultrasons : `git checkout devus`
+ 
  Si autre, créer une branche : 
  `git checkout -b nom_branche`. 
 
