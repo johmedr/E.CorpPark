@@ -3,7 +3,7 @@
 
 ## Autonomous car park project - Master project at INSA Toulouse
 
-[Tuto Git](https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git)
+[Cliquer ici pour suivre un tuto sur Git](https://openclassrooms.com/courses/gerez-vos-codes-source-avec-git)
 
 ### Clonner le repo 
 ```
