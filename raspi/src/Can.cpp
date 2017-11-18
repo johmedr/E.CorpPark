@@ -38,8 +38,8 @@ void Can::write(uint8_t buffer[])
 {
 	struct can_frame frame;
 	int nbytes; 
-	
-	if (parse_canframe(buff, &frame))
+
+	if (parse_canframe(buffer, &frame))
 	{
 		fprintf(stderr, "\nWrong CAN-frame format!\n\n");
 		fprintf(stderr, "Try: <can_id>#{R|data}\n");
@@ -56,8 +56,6 @@ void Can::write(uint8_t buffer[])
 		perror("write");
 		return 1;
 	}
-	
-
 }
 
 Can::CanFrame Can::read() 
