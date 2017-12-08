@@ -1,0 +1,3 @@
+[submodule "raspi-car"]
+	path = raspi-car
+	url = https://github.com/SIECTeamElliot/raspi-car.git
